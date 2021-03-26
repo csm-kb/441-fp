@@ -1,4 +1,4 @@
-Kane Bruce // kbruce@mymail.mines.edu
+Kane Bruce // kbruce dot mines dot edu
 FP // Stargazer
 -------------------------
 Hello! This project represents the culmination of much game/engine design research and all that I learned in
